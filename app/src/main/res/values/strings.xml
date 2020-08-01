@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NavigationComponentPlayground</string>
+    <string name="first_fragment">First fragment</string>
+    <string name="second_fragment">Second fragment</string>
+    <string name="third_fragment">Third fragment</string>
+    <string name="forth_fragment">Forth fragment</string>
+    <string name="open">Open</string>
+    <string name="close">close</string>
+</resources>
