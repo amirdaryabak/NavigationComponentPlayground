@@ -4,6 +4,8 @@
     <string name="second_fragment">Second fragment</string>
     <string name="third_fragment">Third fragment</string>
     <string name="forth_fragment">Forth fragment</string>
+    <string name="fifth_fragment">Fifth fragment</string>
+    <string name="sixth_fragment">Sixth fragment</string>
     <string name="open">Open</string>
     <string name="close">close</string>
 </resources>
